@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: 058535b40a65c1746aecd24156ba06ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6309406150621213132
+    second: chefe_0
+  - first:
+      213: -3192589267707343793
+    second: chefe_1
+  - first:
+      213: -8873374021133615805
+    second: chefe_2
+  - first:
+      213: 683070932680818381
+    second: chefe_3
+  - first:
+      213: -2535131791242433794
+    second: chefe_4
+  - first:
+      213: 3117516692401803324
+    second: chefe_5
+  - first:
+      213: -1159812499435880077
+    second: chefe_6
+  - first:
+      213: -1647856262911236092
+    second: chefe_7
+  - first:
+      213: 4691080405741546782
+    second: chefe_8
+  - first:
+      213: 2660091916126066445
+    second: chefe_9
+  - first:
+      213: 4385965711086744082
+    second: chefe_10
+  - first:
+      213: 6815384835321427050
+    second: chefe_11
+  - first:
+      213: 2995936136841694423
+    second: chefe_12
+  - first:
+      213: 2026928988982142509
+    second: chefe_13
+  - first:
+      213: -6889951633067075424
+    second: chefe_14
+  - first:
+      213: -3415369609268391214
+    second: chefe_15
+  - first:
+      213: 2289472341441577511
+    second: chefe_16
+  - first:
+      213: 5174867627270934024
+    second: chefe_17
+  - first:
+      213: 2561105598018648107
+    second: chefe_18
+  - first:
+      213: -8011992399184355924
+    second: chefe_19
+  - first:
+      213: -6807557626705548526
+    second: chefe_20
+  - first:
+      213: 5505700433330288012
+    second: chefe_21
+  - first:
+      213: 4087592625078518884
+    second: chefe_22
+  - first:
+      213: -696591820791599887
+    second: chefe_23
+  - first:
+      213: 3914347960748516016
+    second: chefe_24
+  - first:
+      213: -7096557919632557704
+    second: chefe_25
+  - first:
+      213: -5718441428763583303
+    second: chefe_26
+  - first:
+      213: -3513511874295138322
+    second: chefe_27
+  - first:
+      213: -4104327289551415786
+    second: chefe_28
+  - first:
+      213: 3792043868731212781
+    second: chefe_29
+  - first:
+      213: 7438977264034120738
+    second: chefe_30
+  - first:
+      213: -965325061451207119
+    second: chefe_31
+  - first:
+      213: 7740341328999370714
+    second: chefe_32
+  - first:
+      213: -7619851232239136899
+    second: chefe_33
+  - first:
+      213: 5126039105025470015
+    second: chefe_34
+  - first:
+      213: -7483443973286832119
+    second: chefe_35
+  - first:
+      213: -6504854609843526598
+    second: chefe_36
+  - first:
+      213: -8133551448306976512
+    second: chefe_37
+  - first:
+      213: 7946248990234564322
+    second: chefe_38
+  - first:
+      213: 726958086630664269
+    second: chefe_39
+  - first:
+      213: 2431681073568010488
+    second: chefe_40
+  - first:
+      213: 6952588747016566695
+    second: chefe_41
+  - first:
+      213: -2112093678137726663
+    second: chefe_42
+  - first:
+      213: 3856349754035502275
+    second: chefe_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chefe_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 338
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1317f17738f8750800000000000000
+      internalID: 6309406150621213132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 338
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c4490e9f4a1b3d0800000000000000
+      internalID: -3192589267707343793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 338
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34db62747517bd480800000000000000
+      internalID: -8873374021133615805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 338
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceb5dae461ca7900800000000000000
+      internalID: 683070932680818381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 338
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efae13c411761dcd0800000000000000
+      internalID: -2535131791242433794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 338
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30d5f71ae4a34b20800000000000000
+      internalID: 3117516692401803324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 338
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371011d3da487efe0800000000000000
+      internalID: -1159812499435880077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 338
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408e548a573a129e0800000000000000
+      internalID: -1647856262911236092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_8
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 338
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d250d46c01a1140800000000000000
+      internalID: 4691080405741546782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_9
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 338
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d071592018b8ae420800000000000000
+      internalID: 2660091916126066445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_10
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 338
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2127e5e83941edc30800000000000000
+      internalID: 4385965711086744082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 338
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64fae4f56c159e50800000000000000
+      internalID: 6815384835321427050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_12
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 339
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc84361b04b39920800000000000000
+      internalID: 2995936136841694423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 281
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26e8352d29112c10800000000000000
+      internalID: 2026928988982142509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 281
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a81a678e79f160a0800000000000000
+      internalID: -6889951633067075424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 280
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d294ee8f6b2a90d0800000000000000
+      internalID: -3415369609268391214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_16
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 280
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72205b2e6f6d5cf10800000000000000
+      internalID: 2289472341441577511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 279
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e072b70b2d0d740800000000000000
+      internalID: 5174867627270934024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 279
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b287a2ad8ffda8320800000000000000
+      internalID: 2561105598018648107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 219
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad9c7fbc5fafc090800000000000000
+      internalID: -8011992399184355924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 219
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21be6301862b681a0800000000000000
+      internalID: -6807557626705548526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 219
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85bd58af5d286c40800000000000000
+      internalID: 5505700433330288012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 219
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464cf44e5db0ab830800000000000000
+      internalID: 4087592625078518884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 219
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc26400e653556f0800000000000000
+      internalID: -696591820791599887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 147
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2a0bf2bbe825630800000000000000
+      internalID: 3914347960748516016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 150
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879f058db26f38d90800000000000000
+      internalID: -7096557919632557704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 151
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc5ba171d304a0b0800000000000000
+      internalID: -5718441428763583303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 149
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee77582d09f7d3fc0800000000000000
+      internalID: -3513511874295138322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 147
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616985863108a07c0800000000000000
+      internalID: -4104327289551415786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 147
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de30c68becb00a430800000000000000
+      internalID: 3792043868731212781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_30
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 36
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22406f2886e8c3760800000000000000
+      internalID: 7438977264034120738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e2b6b98f97a92f0800000000000000
+      internalID: -965325061451207119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_32
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 36
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf484bbd673b6b60800000000000000
+      internalID: 7740341328999370714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_33
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 36
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f401d0da9d04690800000000000000
+      internalID: -7619851232239136899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 36
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eedc73869532740800000000000000
+      internalID: 5126039105025470015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_35
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 53
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90853b3fa57752890800000000000000
+      internalID: -7483443973286832119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_36
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 36
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34e6b0523d1ab5a0800000000000000
+      internalID: -6504854609843526598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_37
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 36
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0097c491d02df1f80800000000000000
+      internalID: -8133551448306976512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_38
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 64
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6dcb70b5fb64e60800000000000000
+      internalID: 7946248990234564322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_39
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 38
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48e738378ca61a00800000000000000
+      internalID: 726958086630664269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_40
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0df058d011fb120800000000000000
+      internalID: 2431681073568010488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_41
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 36
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7fc4701ae8c7060800000000000000
+      internalID: 6952588747016566695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_42
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 68
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939a0467df550b2e0800000000000000
+      internalID: -2112093678137726663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefe_43
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 36
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc73f26ba1848530800000000000000
+      internalID: 3856349754035502275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

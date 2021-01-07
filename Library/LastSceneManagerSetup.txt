@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/fase0 - tutorial.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
