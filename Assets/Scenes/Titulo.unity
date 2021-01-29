@@ -204,7 +204,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 243592328}
-        m_MethodName: ChangeS
+        m_MethodName: Sair
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -264,6 +264,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nomeDaCena: 
+  novafase: 
 --- !u!1 &606269700
 GameObject:
   m_ObjectHideFlags: 0
@@ -473,6 +474,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nomeDaCena: Configuracoes
+  novafase: 
 --- !u!1 &790833568
 GameObject:
   m_ObjectHideFlags: 0
@@ -882,6 +884,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nomeDaCena: fase0 - tutorial
+  novafase: 
 --- !u!95 &1932864693
 Animator:
   serializedVersion: 3

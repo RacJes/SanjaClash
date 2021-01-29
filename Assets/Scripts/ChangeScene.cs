@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class ChangeScene : MonoBehaviour
 {
    public string nomeDaCena;
+   [SerializeField] private string novafase;
 
   void Start(){
       Cursor.lockState = CursorLockMode.None;
@@ -18,4 +19,12 @@ public class ChangeScene : MonoBehaviour
    public void Sair(){
        Application.Quit();
    }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if(other.CompareTag("Player")){
+            SceneManager.LoadScene(novafase);
+        }
+    }
+
 }

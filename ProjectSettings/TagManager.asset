@@ -13,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - Terreno
-  - fundo
+  - Player
+  - Inimigo
+  - Ground
   - Pausa
-  - 
+  - LevelBounds
   - 
   - 
   - 

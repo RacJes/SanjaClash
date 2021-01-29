@@ -9,6 +9,9 @@ public class Pausa : MonoBehaviour
     private bool isPaused;
     public GameObject painelPausa;
     public string cena;
+
+    private bool verificajogo;
+    public GameObject Fimdejogo;
     // Start is called before the first frame update
      
      void Start()
@@ -22,6 +25,11 @@ public class Pausa : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Escape))
             {
                 Pause();
+            }
+
+            if(!verificajogo)
+            {
+                
             }
       
     }
@@ -55,6 +63,11 @@ public class Pausa : MonoBehaviour
     public void SairJogo(){
         Application.Quit();
     }
+    public void FimDeJogo()
+    {
+        verificajogo = true;
+        Fimdejogo.SetActive(true);
 
+    }
    
 }
